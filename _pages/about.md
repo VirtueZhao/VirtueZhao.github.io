@@ -1,8 +1,7 @@
 ---
 layout: about
 title: Home
-nav: true
-nav_order: 1
+nav: false # al-folio auto-adds the Home link; keep this false to avoid a duplicate
 permalink: /
 subtitle: Postdoc Fellow · <a href='https://www.auckland.ac.nz/'>School of Computer Science, University of Auckland</a>
 
