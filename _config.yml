@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Di
+title: Di Zhao # the website title (if blank, full name will be used instead)
+first_name: "" # left blank so the name in the header is not rendered bold
 middle_name: ""
-last_name: Zhao
+last_name: Di Zhao
 contact_note: >
   The best way to reach me is by email. (placeholder)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

@@ -1,15 +1,17 @@
 ---
 layout: about
-title: about
+title: Home
+nav: true
+nav_order: 1
 permalink: /
-subtitle: PhD Student · <a href='https://www.auckland.ac.nz/'>University of Auckland</a> · [your research area] <em>(placeholder)</em>
+subtitle: Postdoc Fellow · <a href='https://www.auckland.ac.nz/'>School of Computer Science, University of Auckland</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[Building / Room] (placeholder)</p>
+    <p>School of Computer Science</p>
     <p>University of Auckland</p>
     <p>Auckland, New Zealand</p>
 
@@ -39,9 +41,9 @@ latest_posts:
 
 <p><em>This is placeholder text — replace it with your own biography.</em></p>
 
-<p>I am a PhD student at the <strong>University of Auckland</strong>, working on <em>[your research area]</em>. My research interests include <em>[topic 1]</em>, <em>[topic 2]</em>, and <em>[topic 3]</em>.</p>
+<p>I am a Postdoc Fellow in the <strong>School of Computer Science, University of Auckland</strong>, working on <em>[your research area]</em>. My research interests include <em>[topic 1]</em>, <em>[topic 2]</em>, and <em>[topic 3]</em>.</p>
 
-<p>Before joining the University of Auckland, I received my <em>[degree]</em> from <em>[university]</em> in <em>[year]</em>. <em>(Update this with your background, advisor, and lab.)</em> Feel free to reach out if you would like to collaborate or chat about research.</p>
+<p>Before this, I received my <em>[degree]</em> from <em>[university]</em> in <em>[year]</em>. <em>(Update this with your background, advisor, and lab.)</em> Feel free to reach out if you would like to collaborate or chat about research.</p>
 
 <h2 style="margin:1.8rem 0 .9rem;font-weight:700;">Research Interests</h2>
 
