@@ -41,17 +41,17 @@ Postdoc Fellow,<br>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin:1.5rem 0;">
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><i class="fa-solid fa-brain" style="color:var(--global-theme-color);font-size:1.2rem;width:1.4rem;text-align:center;"></i><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Continual &amp; Lifelong Learning</span></div>
+<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Continual &amp; Lifelong Learning</span></div>
 <ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Forgetting mitigation</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Agentic &amp; online learning</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Continual learning LLMs &amp; MLLMs</li></ul>
 </div>
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><i class="fa-solid fa-sliders" style="color:var(--global-theme-color);font-size:1.2rem;width:1.4rem;text-align:center;"></i><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Foundation Model Training</span></div>
+<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Foundation Model Training</span></div>
 <ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Post-training</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Test-time learning</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Efficient alignment and fine-tuning</li></ul>
 </div>
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><i class="fa-solid fa-palette" style="color:var(--global-theme-color);font-size:1.2rem;width:1.4rem;text-align:center;"></i><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Generative Models</span></div>
+<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Generative Models</span></div>
 <ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Image &amp; video generation</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Diffusion models</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Control &amp; alignment</li></ul>
 </div>
 
@@ -60,13 +60,13 @@ Postdoc Fellow,<br>
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Service</h2>
 
 <div class="dz-service">
-<div class="dz-svc-label"><i class="fa-solid fa-people-group"></i>Organizing Committee</div>
+<div class="dz-svc-label">Organizing Committee</div>
 <div class="dz-svc-body">Workshop on AI for Environmental Science (AI4ES), AAAI 2026</div>
-<div class="dz-svc-label"><i class="fa-solid fa-clipboard-check"></i>Conference Reviewer / PC Member</div>
+<div class="dz-svc-label">Conference Reviewer / PC Member</div>
 <div class="dz-svc-body">NeurIPS, ICLR, AAAI, IJCAI, ACM MM</div>
-<div class="dz-svc-label"><i class="fa-solid fa-book-open"></i>Journal Reviewer</div>
+<div class="dz-svc-label">Journal Reviewer</div>
 <div class="dz-svc-body">IEEE Transactions on Information Forensics and Security (TIFS); Artificial Intelligence Review</div>
-<div class="dz-svc-label"><i class="fa-solid fa-microphone"></i>Session Chair</div>
+<div class="dz-svc-label">Session Chair</div>
 <div class="dz-svc-body">IJCAI 2025</div>
 </div>
 
