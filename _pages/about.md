@@ -30,7 +30,7 @@ Postdoc Fellow,<br>
 <a href="https://www.auckland.ac.nz/" target="_blank" rel="noopener" style="color:var(--global-theme-color);text-decoration:none;">University of Auckland</a>
 </div>
 
-<p>I am currently a Postdoctoral Researcher at the University of Auckland. My research aims to develop machine learning systems capable of operating reliably beyond static and controlled settings. My doctoral research focused on domain generalization, studying how models can remain robust when deployed in unseen domains. My current research extends this line of work to continual learning and embodied agents, with a focus on agents that adapt to evolving tasks and interactive environments. My work is grounded in real-world applications where robustness and adaptation are critical, including animal re-identification for wildlife monitoring and interdisciplinary scientific applications.</p>
+<p style="text-wrap:pretty;">I am currently a Postdoctoral Researcher at the University of Auckland. My research aims to develop machine learning systems capable of operating reliably beyond static and controlled settings. My doctoral research focused on domain generalization, studying how models can remain robust when deployed in unseen domains. My current research extends this line of work to continual learning and embodied agents, with a focus on agents that adapt to evolving tasks and interactive environments. My work is grounded in real-world applications where robustness and adaptation are critical, including animal re-identification for wildlife monitoring and interdisciplinary scientific applications.</p>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin:1.5rem 0;">
 
