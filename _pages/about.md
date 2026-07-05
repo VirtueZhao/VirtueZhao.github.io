@@ -59,7 +59,11 @@ Postdoc Fellow,<br>
 
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Service</h2>
 
+<p style="margin:.4rem 0;"><strong>Organizing Committee</strong> &mdash; Workshop on AI for Environmental Science (AI4ES), AAAI 2026</p>
+
 <p style="margin:.4rem 0;"><strong>Journal Reviewer</strong> &mdash; IEEE Transactions on Information Forensics and Security (TIFS); Artificial Intelligence Review</p>
+
+<p style="margin:.4rem 0;"><strong>Session Chair</strong> &mdash; IJCAI 2025</p>
 
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Selected Publications</h2>
 
