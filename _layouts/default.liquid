@@ -40,6 +40,40 @@
       .publications .periodical {
         display: none;
       }
+      /* Service: icon + aligned two-column list */
+      .dz-service {
+        display: grid;
+        grid-template-columns: max-content 1fr;
+        gap: 0.6rem 1.5rem;
+        align-items: baseline;
+        margin: 0.6rem 0 0;
+      }
+      .dz-service .dz-svc-label {
+        display: inline-flex;
+        align-items: baseline;
+        gap: 0.5rem;
+        font-weight: 700;
+        color: var(--global-text-color);
+        white-space: nowrap;
+      }
+      .dz-service .dz-svc-label i {
+        color: var(--global-theme-color);
+        width: 1.2rem;
+        text-align: center;
+        font-size: 0.95rem;
+      }
+      .dz-service .dz-svc-body {
+        color: var(--global-text-color);
+      }
+      @media (max-width: 640px) {
+        .dz-service {
+          grid-template-columns: 1fr;
+          gap: 0.1rem;
+        }
+        .dz-service .dz-svc-body {
+          margin: 0 0 0.55rem 1.7rem;
+        }
+      }
     </style>
   </head>
 

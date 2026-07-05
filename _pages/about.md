@@ -59,13 +59,16 @@ Postdoc Fellow,<br>
 
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Service</h2>
 
-<p style="margin:.4rem 0;"><strong>Organizing Committee</strong> &mdash; Workshop on AI for Environmental Science (AI4ES), AAAI 2026</p>
-
-<p style="margin:.4rem 0;"><strong>Conference Reviewer / PC Member</strong> &mdash; NeurIPS, ICLR, AAAI, IJCAI, ACM MM</p>
-
-<p style="margin:.4rem 0;"><strong>Journal Reviewer</strong> &mdash; IEEE Transactions on Information Forensics and Security (TIFS); Artificial Intelligence Review</p>
-
-<p style="margin:.4rem 0;"><strong>Session Chair</strong> &mdash; IJCAI 2025</p>
+<div class="dz-service">
+<div class="dz-svc-label"><i class="fa-solid fa-people-group"></i>Organizing Committee</div>
+<div class="dz-svc-body">Workshop on AI for Environmental Science (AI4ES), AAAI 2026</div>
+<div class="dz-svc-label"><i class="fa-solid fa-clipboard-check"></i>Conference Reviewer / PC Member</div>
+<div class="dz-svc-body">NeurIPS, ICLR, AAAI, IJCAI, ACM MM</div>
+<div class="dz-svc-label"><i class="fa-solid fa-book-open"></i>Journal Reviewer</div>
+<div class="dz-svc-body">IEEE Transactions on Information Forensics and Security (TIFS); Artificial Intelligence Review</div>
+<div class="dz-svc-label"><i class="fa-solid fa-microphone"></i>Session Chair</div>
+<div class="dz-svc-body">IJCAI 2025</div>
+</div>
 
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Selected Publications</h2>
 
