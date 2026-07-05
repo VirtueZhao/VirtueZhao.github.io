@@ -70,6 +70,15 @@ Postdoctoral Research Fellow,<br>
 <div class="dz-svc-body">IJCAI 2025</div>
 </div>
 
+<h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Teaching</h2>
+
+<p style="margin:.4rem 0;"><strong>Professional Teaching Fellow</strong>, University of Auckland</p>
+<ul style="margin:.1rem 0 .5rem;padding-left:1.2rem;">
+<li style="margin:.15rem 0;">COMPSCI 764 &mdash; Deep Learning (2025, 2026)</li>
+<li style="margin:.15rem 0;">COMPSCI 761 &mdash; Advanced Topics in Artificial Intelligence (2026)</li>
+</ul>
+<p style="margin:.4rem 0;"><strong>Student Supervision</strong> &mdash; Co-supervised 4 Research Master's students and 2 PhD students (ongoing)</p>
+
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Selected Publications</h2>
 
 {% include selected_papers.liquid %}
