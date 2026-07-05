@@ -13,10 +13,12 @@
         --global-theme-color: #4c9ff2;
         --global-hover-color: #4c9ff2;
       }
-      /* Publications: bold the highlighted (self) author, not italic */
-      .publications .author em {
+      /* Publications: bold the highlighted (self) author; no italic, no underline.
+         Match al-folio's own selector specificity so this wins. */
+      .publications ol.bibliography li .author > em {
         font-weight: 700;
         font-style: normal;
+        border-bottom: none;
       }
       /* Publications: hide the venue/date line (venue now shown on the left badge) */
       .publications .periodical {
