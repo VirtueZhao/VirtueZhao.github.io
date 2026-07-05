@@ -61,6 +61,8 @@ Postdoc Fellow,<br>
 
 <p style="margin:.4rem 0;"><strong>Organizing Committee</strong> &mdash; Workshop on AI for Environmental Science (AI4ES), AAAI 2026</p>
 
+<p style="margin:.4rem 0;"><strong>Conference Reviewer / PC Member</strong> &mdash; NeurIPS, ICLR, AAAI, IJCAI, ACM MM</p>
+
 <p style="margin:.4rem 0;"><strong>Journal Reviewer</strong> &mdash; IEEE Transactions on Information Forensics and Security (TIFS); Artificial Intelligence Review</p>
 
 <p style="margin:.4rem 0;"><strong>Session Chair</strong> &mdash; IJCAI 2025</p>
