@@ -41,18 +41,15 @@ Postdoc Fellow,<br>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin:1.5rem 0;">
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Continual &amp; Lifelong Learning</span></div>
-<ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Forgetting mitigation</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Agentic &amp; online learning</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Continual learning LLMs &amp; MLLMs</li></ul>
+<div style="text-align:center;font-weight:700;font-size:1.02rem;color:var(--global-text-color);">Embodied Agent</div>
 </div>
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Foundation Model Training</span></div>
-<ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Post-training</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Test-time learning</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Efficient alignment and fine-tuning</li></ul>
+<div style="text-align:center;font-weight:700;font-size:1.02rem;color:var(--global-text-color);">Continual Learning</div>
 </div>
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="display:flex;align-items:center;gap:.6rem;margin-bottom:.55rem;"><span style="font-weight:700;font-size:1rem;color:var(--global-text-color);">Generative Models</span></div>
-<ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Image &amp; video generation</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Diffusion models</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Control &amp; alignment</li></ul>
+<div style="text-align:center;font-weight:700;font-size:1.02rem;color:var(--global-text-color);">Transfer Learning</div>
 </div>
 
 </div>
