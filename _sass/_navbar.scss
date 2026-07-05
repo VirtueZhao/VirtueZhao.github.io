@@ -227,17 +227,3 @@
 li.toggle-container {
   display: none !important;
 }
-
-/*******************************************************************************
- * Site override (local): overall theme color -> blue (#0076df).
- * Navbar is @use'd after themes in main.scss, so these :root / dark rules
- * win over the gem defaults ($purple for light, $cyan for dark).
- ******************************************************************************/
-:root {
-  --global-theme-color: #0076df;
-  --global-hover-color: #0076df;
-}
-html[data-theme="dark"] {
-  --global-theme-color: #4c9ff2;
-  --global-hover-color: #4c9ff2;
-}
