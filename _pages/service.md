@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: Service
 description: Academic and professional service. (placeholder — edit in _pages/service.md)
-nav: true
+nav: false
 nav_order: 3
 ---
 

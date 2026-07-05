@@ -10,11 +10,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # rendered manually in the body instead (single-page layout)
 social: false # using the custom pill links below instead of the default icon row
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # News section replaced by a Service section in the body
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -50,6 +50,18 @@ Postdoc Fellow,<br>
 </div>
 
 </div>
+
+<h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Service</h2>
+
+<ul>
+<li>Reviewer / Program Committee — [venues, years] <em>(placeholder)</em></li>
+<li>Organization — [workshop / seminar, year] <em>(placeholder)</em></li>
+<li>Teaching &amp; Mentoring — [role, year] <em>(placeholder)</em></li>
+</ul>
+
+<h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Selected Publications</h2>
+
+{% include selected_papers.liquid %}
 
 <div style="display:flex;flex-wrap:wrap;gap:.6rem;margin:1.6rem 0 .4rem;">
 <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:.45rem;padding:.42rem 1rem;border:1.6px solid var(--global-theme-color);border-radius:2rem;color:var(--global-theme-color);font-size:.9rem;font-weight:500;text-decoration:none;white-space:nowrap;"><i class="ai ai-google-scholar"></i>Google Scholar</a>
