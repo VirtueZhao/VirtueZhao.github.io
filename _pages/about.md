@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="display:flex;flex-wrap:wrap;gap:.4rem;justify-content:center;margin-top:.7rem;">
-    <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:.35rem;padding:.28rem .7rem;border:1.4px solid var(--global-theme-color);border-radius:2rem;color:var(--global-theme-color);font-size:.78rem;font-weight:500;text-decoration:none;white-space:nowrap;"><i class="ai ai-google-scholar"></i>Scholar</a>
+    <a href="https://scholar.google.com/citations?user=RmvtaO4AAAAJ" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:.35rem;padding:.28rem .7rem;border:1.4px solid var(--global-theme-color);border-radius:2rem;color:var(--global-theme-color);font-size:.78rem;font-weight:500;text-decoration:none;white-space:nowrap;"><i class="ai ai-google-scholar"></i>Scholar</a>
     <a href="https://github.com/VirtueZhao" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:.35rem;padding:.28rem .7rem;border:1.4px solid var(--global-theme-color);border-radius:2rem;color:var(--global-theme-color);font-size:.78rem;font-weight:500;text-decoration:none;white-space:nowrap;"><i class="fa-brands fa-github"></i>GitHub</a>
     <a href="mailto:di.zhao@auckland.ac.nz" style="display:inline-flex;align-items:center;gap:.35rem;padding:.28rem .7rem;border:1.4px solid var(--global-theme-color);border-radius:2rem;color:var(--global-theme-color);font-size:.78rem;font-weight:500;text-decoration:none;white-space:nowrap;"><i class="fa-solid fa-envelope"></i>Email</a>
     </div>
