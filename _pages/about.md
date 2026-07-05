@@ -50,7 +50,8 @@ Postdoc Fellow,<br>
 </div>
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="font-weight:700;font-size:1.02rem;color:var(--global-text-color);">Transfer Learning</div>
+<div style="font-weight:700;font-size:1.02rem;color:var(--global-text-color);margin-bottom:.5rem;">Transfer Learning</div>
+<ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Domain Generalization</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Bridging Simulation to Reality</li></ul>
 </div>
 
 </div>
