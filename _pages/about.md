@@ -3,7 +3,7 @@ layout: about
 title: Home
 nav: false # al-folio auto-adds the Home link; keep this false to avoid a duplicate
 permalink: /
-subtitle: Postdoc Fellow · <a href='https://www.auckland.ac.nz/'>School of Computer Science, University of Auckland</a>
+subtitle:
 
 profile:
   align: right
@@ -27,6 +27,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<div style="margin:.1rem 0 1.2rem;line-height:1.6;font-size:1.05rem;">
+Postdoc Fellow,<br>
+<a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html" target="_blank" rel="noopener" style="color:var(--global-theme-color);text-decoration:none;">School of Computer Science,</a><br>
+<a href="https://www.auckland.ac.nz/" target="_blank" rel="noopener" style="color:var(--global-theme-color);text-decoration:none;">University of Auckland</a>
+</div>
 
 <div style="display:flex;flex-wrap:wrap;gap:.6rem;margin:.2rem 0 1.4rem;">
 <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:.45rem;padding:.42rem 1rem;border:1.6px solid var(--global-theme-color);border-radius:2rem;color:var(--global-theme-color);font-size:.9rem;font-weight:500;text-decoration:none;white-space:nowrap;"><i class="ai ai-google-scholar"></i>Google Scholar</a>

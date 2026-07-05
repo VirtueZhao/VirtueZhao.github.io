@@ -1,0 +1,44 @@
+---
+# Local override of al_folio_core's assets/css/main.scss.
+# Faithful copy of the gem's import list (al_folio_core 1.0.11) plus a small
+# block of site-specific rules appended at the end. If you upgrade the gem and
+# the upstream import list changes, re-sync the @use lines below.
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials. */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Project partials */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ------------------------------------------------------------------ */
+/* Site-specific overrides                                            */
+/* ------------------------------------------------------------------ */
+
+/* Remove the light/dark theme toggle from the navbar. */
+#light-toggle,
+.toggle-container {
+  display: none !important;
+}
