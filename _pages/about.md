@@ -41,7 +41,8 @@ Postdoc Fellow,<br>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin:1.5rem 0;align-items:start;">
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
-<div style="font-weight:700;font-size:1.02rem;color:var(--global-text-color);">Embodied Agent</div>
+<div style="font-weight:700;font-size:1.02rem;color:var(--global-text-color);margin-bottom:.5rem;">Embodied Agent</div>
+<ul style="margin:0;padding-left:1.15rem;"><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">Vision-Language-Action Models</li><li style="font-size:.86rem;color:var(--global-theme-color);margin:.18rem 0;">World Models</li></ul>
 </div>
 
 <div style="border:1px solid var(--global-divider-color);border-radius:.8rem;padding:1rem 1.15rem;background:var(--global-card-bg-color);">
