@@ -31,7 +31,7 @@ latest_posts:
 ---
 
 <div style="margin:.1rem 0 1.2rem;line-height:1.6;font-size:1.05rem;">
-Postdoc Fellow,<br>
+Postdoctoral Research Fellow,<br>
 <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html" target="_blank" rel="noopener" style="color:var(--global-theme-color);text-decoration:none;">School of Computer Science,</a><br>
 <a href="https://www.auckland.ac.nz/" target="_blank" rel="noopener" style="color:var(--global-theme-color);text-decoration:none;">University of Auckland</a>
 </div>
