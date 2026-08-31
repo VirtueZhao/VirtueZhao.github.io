@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p style="font-size:.85rem;color:var(--global-text-color);opacity:.72;margin:.25rem 0 1rem;"><sup>&dagger;</sup> Corresponding author</p>
+
 <div class="publications">
 
 {% bibliography %}

@@ -79,4 +79,6 @@ Postdoctoral Research Fellow,<br>
 
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Selected Publications</h2>
 
+<p style="font-size:.85rem;color:var(--global-text-color);opacity:.72;margin:.25rem 0 1rem;"><sup>&dagger;</sup> Corresponding author</p>
+
 {% include selected_papers.liquid %}
