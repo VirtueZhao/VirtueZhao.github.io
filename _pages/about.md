@@ -60,15 +60,23 @@ Postdoctoral Research Fellow,<br>
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Service</h2>
 
 <div class="dz-service">
+<div class="dz-svc-label">Doctoral Symposium Chair</div>
+<div class="dz-svc-body">Australasian Data Science and Machine Learning Conference (AusDM 2023)</div>
 <div class="dz-svc-label">Organizing Committee</div>
 <div class="dz-svc-body">Workshop on AI for Environmental Science (AI4ES), AAAI 2026</div>
+<div class="dz-svc-label">Session Chair</div>
+<div class="dz-svc-body">IJCAI 2025</div>
 <div class="dz-svc-label">Conference Reviewer / PC Member</div>
 <div class="dz-svc-body">NeurIPS, ICLR, AAAI, IJCAI, ACM MM</div>
 <div class="dz-svc-label">Journal Reviewer</div>
 <div class="dz-svc-body">IEEE Transactions on Information Forensics and Security (TIFS); Artificial Intelligence Review</div>
-<div class="dz-svc-label">Session Chair</div>
-<div class="dz-svc-body">IJCAI 2025</div>
 </div>
+
+<h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Invited Talks</h2>
+
+<ul style="margin:.5rem 0;padding-left:1.2rem;">
+<li style="margin:.15rem 0;">&ldquo;From Domain Generalization to Embodied Intelligence&rdquo; &mdash; School of Computer and Information Technology, Shanxi University, 2026</li>
+</ul>
 
 <h2 style="font-size: 1.3rem; font-family: 'Courier New', Courier, monospace; font-weight: 700; color: var(--global-theme-color); margin-top: 1.8rem;">Teaching</h2>
 
